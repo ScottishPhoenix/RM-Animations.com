@@ -1,0 +1,33 @@
+#header {
+ background-image: url("westcollegescotland5.png");   
+ background-repeat: no-repeat;
+  background-position: top left;  
+ color: #e68a00;
+ text-align: right;
+ padding: 70px;
+ font-family: "Arial", Times, serif;
+}
+#nav {
+ line-height: 30px;
+ background-color:  #ff9933;
+ height:700px;
+ width: 150px;
+ float: left;
+ padding: 5px;
+}
+#section {
+ width: 1000px;
+ float: left;
+ padding: 10px;
+}
+#footer {
+ background-color: #ff9933;
+ color: white;
+ clear: both;
+ text-align: center;
+ padding: 5px;
+ }
+
+table {
+	 padding: 50px;
+ }
