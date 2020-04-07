@@ -55,10 +55,10 @@
 	color: #fe6400;
 }
 .primary_header {
-	width: 90%;
+	width: 100%;
 	background-color: #fe6400;
-	padding-left: 95px;
-	padding-right: 95px;
+	padding-left: 10px;
+	padding-right: 10px;
 	clear: left;
 	border-bottom: 1px solid #fe6400;
 }
