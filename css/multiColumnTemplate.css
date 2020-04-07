@@ -57,14 +57,14 @@
 .primary_header {
 	width: 100%;
 	background-color: #fe6400;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	display: flex;
 	justify-content: center;
         align-items: center;
 }
 	.primary_header img {
-        width: 70%;
+        width: 80%;
 	clear: left;
 	border-bottom: 1px solid #fe6400;
 }
