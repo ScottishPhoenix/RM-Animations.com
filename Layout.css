@@ -21,7 +21,7 @@
 #main {
   float: left;
   width: calc(100% - 150px);
-  padding: 3px;
+  padding: 10px;
 }
 
 /* Footer */
