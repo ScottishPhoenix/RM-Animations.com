@@ -126,6 +126,7 @@ nav {
 }
 .left_article {
 	background-color: #0E0D2D;
+        height: 45%;
 	width: 60%;
 	float: left;
 	font-family: "Source Sans Pro";
