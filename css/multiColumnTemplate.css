@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .container {
-	background-color: #2b81bd;
+	background-color: #0E0D2D;
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
@@ -35,7 +35,7 @@
         height: 250px;
 	float: left;
 	font-family: "Source Sans Pro";
-	color: #ffffff;
+	color: #A5A5A5;
 	line-height: 24px;
 	padding-top: 0px;
 	padding-bottom: 40px;
@@ -53,7 +53,7 @@
 }
 .container .columns h4 {
 	text-align: center;
-	color: #3fccff;
+	color: #fe6400;
 }
 .primary_header {
 	width: 100%;
@@ -67,13 +67,13 @@
 	.primary_header img {
         width: 80%;
 	clear: left;
-	border-bottom: 1px solid rgb(31, 255, 255);
+	border-bottom: 1px solid #fe6400;
 }
 nav {
 	width: 100%;
 	padding-top: 40px;
 	padding-bottom: 40px;
-	background-color: #A5A5A5;
+	background-color: #22356f;
 	clear: left;
 }
 
@@ -124,7 +124,7 @@ nav {
 	cursor: pointer;
 }
 .left_article {
-	background-color: #FFFFFF;
+	background-color: #0E0D2D;
 	width: 60%;
 	float: left;
 	font-family: "Source Sans Pro";
@@ -154,7 +154,7 @@ nav {
 .right_article {
 	width: 40%;
 	float: left;
-	background-color: #F6F6F6;
+	background-color: #0E0D2D;
 }
 .container .right_article ul {
 	margin-top: 0px;
