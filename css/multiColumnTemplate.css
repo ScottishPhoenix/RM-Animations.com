@@ -300,7 +300,6 @@ body {
 	padding-left: 0px;
 	max-width: 400px;
 	max-height: 200px;
-	height: auto;
 }
 
 .columns {
@@ -437,7 +436,7 @@ body {
 	padding-bottom: 27px;
 }
 .placeholder {
-        height: 80%;
+        height: 100%;
 	width: 100%;
 	margin-left: 0px;
 	margin-right: 0px;
