@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .container {
-	background-color: ##0E0D2D;
+	background-color: #2b81bd;
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
@@ -35,7 +35,7 @@
         height: 250px;
 	float: left;
 	font-family: "Source Sans Pro";
-	color: #A5A5A5;
+	color: #ffffff;
 	line-height: 24px;
 	padding-top: 0px;
 	padding-bottom: 40px;
@@ -53,11 +53,11 @@
 }
 .container .columns h4 {
 	text-align: center;
-	color: #fe6400;
+	color: #3fccff;
 }
 .primary_header {
 	width: 100%;
-	background-color: #fe6400;
+	background-color: #181c2f;
 	padding-top: 1px;
 	padding-bottom: 1px;
 	display: flex;
@@ -67,7 +67,7 @@
 	.primary_header img {
         width: 80%;
 	clear: left;
-	border-bottom: 1px solid #fe6400;
+	border-bottom: 1px solid rgb(31, 255, 255);
 }
 nav {
 	width: 100%;
