@@ -217,7 +217,7 @@ nav {
 	height: 100%;
 }
 .left_half {
-	background-color: #fe6400;
+	background-color: #22356f;
 }
 .container .column_half.left_half h2 {
 	color: #22356f;
@@ -226,7 +226,7 @@ nav {
 }
 .right_half {
 	background-color: #fe6400;
-	color: #FFFFFF;
+	color: #22356f;
 	font-family: "Source Sans Pro";
 	text-align: center;
 	font-weight: bold;
