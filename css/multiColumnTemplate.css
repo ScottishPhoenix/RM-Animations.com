@@ -157,7 +157,7 @@ nav {
 	width: 40%;
         height: 420px;
 	float: left;
-        margin-bottom: 20px;
+       # margin-bottom: 20px;
 	background-color: #0E0D2D;
 }
 .container .right_article ul {
@@ -288,7 +288,7 @@ body {
 	height: auto;
 }
 .placeholder {
-	width: 100%;
+	width: 80%;
 	margin-top: 22PX;
 	margin-right: 0px;
 	margin-bottom: 22PX;
