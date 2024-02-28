@@ -66,6 +66,7 @@
         align-items: center;
 }
 	.primary_header img {
+        height: 80%;
         width: 80%;
 	clear: left;
 	border-bottom: 10px solid #4fb9af;
