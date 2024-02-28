@@ -68,7 +68,7 @@
 	.primary_header img {
         width: 80%;
 	clear: left;
-	border-bottom: 1px solid #fe6400;
+	border-bottom: 20px solid #4fb9af;
 }
 nav {
 	width: 100%;
@@ -155,7 +155,7 @@ nav {
 }
 .right_article {
 	width: 40%;
-        height: 420px:
+        height: 420px;
 	float: left;
 	background-color: #0E0D2D;
 }
