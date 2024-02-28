@@ -32,6 +32,7 @@
 }
 .columns {
 	width: 20%;
+        height: 35%;
 	float: left;
 	font-family: "Source Sans Pro";
 	color: #A5A5A5;
