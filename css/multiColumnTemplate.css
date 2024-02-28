@@ -288,7 +288,7 @@ body {
 	height: auto;
 }
 .placeholder {
-	width: 80%;
+	width: 100%;
 	margin-top: 22PX;
 	margin-right: 0px;
 	margin-bottom: 22PX;
@@ -301,6 +301,7 @@ body {
 	max-height: 200px;
 	height: auto;
 }
+
 .columns {
 	width: 100%;
 	margin-top: 0px;
@@ -435,6 +436,14 @@ body {
 	padding-bottom: 27px;
 }
 .placeholder {
+        height: 80%;
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.placeholder2 {
 	width: 100%;
 	margin-left: 0px;
 	margin-right: 0px;
