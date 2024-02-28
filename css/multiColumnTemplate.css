@@ -26,6 +26,7 @@
 	display: block;
 }
 .column_half {
+	height: 10%
 	width: 50%;
 	float: left;
 	margin-top: 0px;
@@ -313,9 +314,11 @@ body {
 	padding-right: 10px;
 }
 .column_half.left_half {
+	height: 10%
 	width: 100%;
 }
 .column_half.right_half {
+	height: 10%
 	width: 100%;
 }
 .copyright {
@@ -400,9 +403,11 @@ body {
 	padding-right: 14px;
 }
 .column_half.left_half {
+	height: 10%
 	width: 100%;
 }
 .column_half.right_half {
+	height: 10%
 	width: 100%;
 }
 }
